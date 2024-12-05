@@ -1,16 +1,16 @@
-## Hi there 👋
+# Futurate: Empowering Your Next Career Move
 
-<!--
-**Futurate-c242/Futurate-c242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👥 Tim Kami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ID             | Nama                  | Path   |
+|-----------------|-----------------------|--------|
+| M001B4KX2060   | Jesika Oktaviani      | ML     |
+| M001B4KX3920   | Rizkika Deviyanti     | ML     |
+| M001B4KX4606   | Zara Zannetta         | ML     |
+| C001B4KY1316   | Fadhil Mumtaz         | CC     |
+| C001B4KY3872   | Rio Alvein Hasana     | CC     |
+| A287B4KY0369   | Alhi Dayat Putra      | MD     |
+
+---
