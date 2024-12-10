@@ -1,9 +1,8 @@
 # Futurate: Empowering Your Next Career Move!
 
-![Futurate Banner](https://drive.google.com/file/d/1_efDh0wDPsGufp2jDJNW3r1lg9X6J2HK/view?usp=sharing)
 ---
 
-## 👥 Tim Kami
+## Our Team
 
 | ID             | Nama                  | Path   |
 |-----------------|-----------------------|--------|
