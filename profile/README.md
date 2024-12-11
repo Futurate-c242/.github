@@ -28,6 +28,6 @@
   - Cloud Storage
   - Firebase
 - ### Mobile Development:
-  - 
-  - 
-  - 
+  - Kotlin
+  - Retrofit
+  - POJO Generator
