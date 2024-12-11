@@ -14,3 +14,20 @@
 | A287B4KY0369   | Alhi Dayat Putra      | Mobile Development 18     |
 
 ---
+
+## ⚙️ Tech Stack
+- ### Machine Learning:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+- ### Cloud Computing (GCP):
+  - Cloud Run
+  - Cloud Storage
+  - Firebase
+- ### Mobile Development:
+  - 
+  - 
+  - 
