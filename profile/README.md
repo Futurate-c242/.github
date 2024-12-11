@@ -35,3 +35,4 @@
   - Kotlin
   - Retrofit
   - POJO Generator
+  - Android Studio
