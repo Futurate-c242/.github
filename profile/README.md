@@ -9,6 +9,7 @@
     - [Machine Learning](#machine-learning)
     - [Cloud Computing](#cloud-computing-gcp)
     - [Mobile Development](#mobile-development)
+  - [Future Plans](#future-plans)
 
 ## Our Team
 
@@ -60,7 +61,7 @@ The logo is inspired by two symbols: a light bulb and a worker. The light bulb r
 
 ## Results
 
-## Future Plan
+## Future Plans
 1. Refining Dataset and Feedback Loop
 We will update the dataset with additional, more relevant local data through collaboration with various communities and local career platforms. Feedback from early users will be continuously gathered to improve the model's accuracy and relevance.
 
