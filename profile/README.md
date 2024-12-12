@@ -15,7 +15,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - ### Machine Learning:
   - TensorFlow
   - Jupyter
