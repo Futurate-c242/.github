@@ -63,14 +63,14 @@ The logo is inspired by two symbols: a light bulb and a worker. The light bulb r
 We achieved 90% completion of our project based on our initial plans. However, there were some challenges that prevented us from fully implementing all features. Specifically, we faced limitations in accessing the required dataset and encountered technical difficulties. As a result, we were only able to implement the features related to analyzing users' skills and preferences for certain career paths, while other aspects, such as a more comprehensive analysis of users' background and interests, were not fully realized. Despite these setbacks, considering the scope of our project and the resources available to us as students, we are very satisfied with the results and the progress made.
 
 ## Future Plans
-1. Refining Dataset and Feedback Loop
+1. Refining Dataset and Feedback Loop<br>
 We will update the dataset with additional, more relevant local data through collaboration with various communities and local career platforms. Feedback from early users will be continuously gathered to improve the model's accuracy and relevance.
 
-2. Prototype Optimization and Platform Expansion
+2. Prototype Optimization and Platform Expansion<br>
 We will enhance the prototype with personalization features such as filters based on location or skills, and develop applications for Android platforms and web browsers to ensure broader accessibility.
 
-3. Basic Analytics and Collaboration
+3. Basic Analytics and Collaboration<br>
 We will add basic analytics features to track usage patterns and utilize this data to improve functionality. Additionally, we will consider collaborating with campus career centers to promote the application as a job search solution for students.
 
-4. Documentation and Incremental Development
+4. Documentation and Incremental Development<br>
 Development documentation will be completed to support open-source collaboration, and additional features such as job application deadline reminders will be gradually implemented to enhance user experience.
