@@ -60,6 +60,7 @@ The logo is inspired by two symbols: a light bulb and a worker. The light bulb r
   - Android Studio
 
 ## Results
+We achieved 90% completion of our project based on our initial plans. However, there were some challenges that prevented us from fully implementing all features. Specifically, we faced limitations in accessing the required dataset and encountered technical difficulties. As a result, we were only able to implement the features related to analyzing users' skills and preferences for certain career paths, while other aspects, such as a more comprehensive analysis of users' background and interests, were not fully realized. Despite these setbacks, considering the scope of our project and the resources available to us as students, we are very satisfied with the results and the progress made.
 
 ## Future Plans
 1. Refining Dataset and Feedback Loop
